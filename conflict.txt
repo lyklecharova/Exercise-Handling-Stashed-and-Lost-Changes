@@ -1,2 +1,6 @@
 Original content
+<<<<<<< HEAD
 Main branch change
+=======
+Change from conflict-branch
+>>>>>>> feature-conflict-branch
