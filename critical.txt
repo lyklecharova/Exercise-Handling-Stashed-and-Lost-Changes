@@ -1,0 +1,2 @@
+This is critical change 1 that will be recovered.
+This is critical change 2 that will be recovered.
