@@ -1,2 +1,5 @@
 Initial B
+<<<<<<< HEAD
 Change B
+=======
+>>>>>>> c3ceae5 (Initial commit with A and B)
